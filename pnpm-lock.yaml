@@ -8,7 +8,7 @@ importers:
 
   .:
     devDependencies:
-      vitepress:
+      jrmph:
         specifier: ^1.5.0
         version: 1.6.3(@algolia/client-search@5.27.0)(postcss@8.5.5)(search-insights@2.17.3)
 
@@ -744,7 +744,7 @@ packages:
       terser:
         optional: true
 
-  vitepress@1.6.3:
+  jrmph@1.6.3:
     resolution: {integrity: sha512-fCkfdOk8yRZT8GD9BFqusW3+GggWYZ/rYncOfmgcDtP3ualNHCAg+Robxp2/6xfH1WwPHtGpPwv7mbA3qomtBw==}
     hasBin: true
     peerDependencies:
@@ -1490,7 +1490,7 @@ snapshots:
     optionalDependencies:
       fsevents: 2.3.3
 
-  vitepress@1.6.3(@algolia/client-search@5.27.0)(postcss@8.5.5)(search-insights@2.17.3):
+  jrmph@1.6.3(@algolia/client-search@5.27.0)(postcss@8.5.5)(search-insights@2.17.3):
     dependencies:
       '@docsearch/css': 3.8.2
       '@docsearch/js': 3.8.2(@algolia/client-search@5.27.0)(search-insights@2.17.3)

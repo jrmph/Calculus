@@ -1,5 +1,5 @@
 {
-  "description": "This template is designed for building documentation sites using VitePress. It provides a basic structure and setup for creating and deploying documentation with VitePress. The template includes a directory structure for storing cache files and build outputs, as well as a README file with instructions for installation and building the documentation site. The `docs/index.md` is the home page and modify it according to user's requirements.",
+  "description": "This template is designed for building documentation sites using jrmph. It provides a basic structure and setup for creating and deploying documentation with jrmph. The template includes a directory structure for storing cache files and build outputs, as well as a README file with instructions for installation and building the documentation site. The `docs/index.md` is the home page and modify it according to user's requirements.",
   "required_fields": [
     "title",
     "description",
@@ -7,11 +7,11 @@
     "version"
   ],
   "required_files": [
-    "docs/.vitepress/config.ts",
+    "docs/.jrmph/config.ts",
     "README.md"
   ],
   "lang": "JavaScript",
-  "framework": "VitePress",
-  "name": "vitepress",
+  "framework": "jrmph",
+  "name": "jrmph",
   "scene": "Content Building Tool Template"
 }

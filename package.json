@@ -1,22 +1,22 @@
 {
-  "name": "vitepress",
+  "name": "jrmph",
   "version": "1.0.0",
   "description": "",
   "type": "module",
   "main": "index.js",
   "packageManager": "pnpm@10.10.0",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs",
-    "start": "vitepress dev docs",
-    "dev": "vitepress dev docs",
-    "build": "vitepress build docs"
+    "docs:dev": "jrmph dev docs",
+    "docs:build": "jrmph build docs",
+    "docs:preview": "jrmph preview docs",
+    "start": "jrmph dev docs",
+    "dev": "jrmph dev docs",
+    "build": "jrmph build docs"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "^1.5.0"
+    "jrmph": "^1.5.0"
   }
 }
