@@ -1,6 +1,6 @@
 # Calculus Reviewer
 
-![Calculus Reviewer Logo](../20250807_191405.jpg)
+![Calculus Reviewer Logo](https://github.com/jrmph/Calculus/blob/main/20250807_191405.jpg)
 
 **A Comprehensive Guide to Calculus**  
 Created by Jhames Rhonnielle Martin, an 18-year-old BSIS student

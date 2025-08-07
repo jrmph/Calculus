@@ -8,7 +8,7 @@ hero:
   text: A Comprehensive Guide to Calculus
   tagline: Clear explanations, step-by-step solutions, and intuitive examples
   image:
-    src: 20250807_191405.jpg
+    src: https://github.com/jrmph/Calculus/blob/main/20250807_191405.jpg
     alt: Calculus Reviewer Logo
   actions:
     - theme: brand
