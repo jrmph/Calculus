@@ -1,6 +1,6 @@
 # Code Generation Examples
 
-Learn how MetaGPT generates production-ready code through examples.
+Learn how jrmph generates production-ready code through examples.
 
 ## Web Application
 

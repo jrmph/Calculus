@@ -1,6 +1,6 @@
 # Multi-Agent System
 
-MetaGPT's multi-agent system simulates a software development team where each agent has specialized roles and responsibilities.
+jrmph's multi-agent system simulates a software development team where each agent has specialized roles and responsibilities.
 
 ## Agent Types
 
@@ -52,7 +52,7 @@ sequenceDiagram
 
 ### Creating Custom Roles
 ```python
-from metagpt.roles import Role
+from jrmph.roles import Role
 
 class CustomRole(Role):
     def __init__(self):

@@ -1,6 +1,6 @@
 # Installation Guide
 
-This guide will help you set up MetaGPT in your development environment.
+This guide will help you set up jrmph in your development environment.
 
 ## Prerequisites
 
@@ -13,7 +13,7 @@ This guide will help you set up MetaGPT in your development environment.
 ### 1. Install via pip
 
 ```bash
-pip install metagpt
+pip install jrmph
 ```
 
 ### 2. Configure Environment Variables
@@ -35,8 +35,8 @@ export OPENAI_API_MODEL="gpt-4"
 ### 3. Verify Installation
 
 ```python
-import metagpt
-print(metagpt.__version__)
+import jrmph
+print(jrmph.__version__)
 ```
 
 ## Configuration Options
@@ -66,7 +66,7 @@ Solution: Ensure OPENAI_API_KEY is properly set
 2. Dependencies
 ```bash
 Error: Module not found
-Solution: Run pip install --upgrade metagpt
+Solution: Run pip install --upgrade jrmph
 ```
 
-For more help, visit our [GitHub Issues](https://github.com/geekan/MetaGPT/issues) page.
+For more help, visit our [GitHub Issues](https://github.com/geekan/jrmph/issues) page.

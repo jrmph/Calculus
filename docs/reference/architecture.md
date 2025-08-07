@@ -1,6 +1,6 @@
 # Architecture Overview
 
-MetaGPT's architecture is designed to simulate a software company's workflow through multi-agent collaboration.
+jrmph's architecture is designed to simulate a software company's workflow through multi-agent collaboration.
 
 ## System Architecture
 

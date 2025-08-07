@@ -1,11 +1,11 @@
 # Basic Usage Examples
 
-Learn how to use MetaGPT through practical examples.
+Learn how to use jrmph through practical examples.
 
 ## Simple Project Creation
 
 ```python
-from metagpt.software_company import SoftwareCompany
+from jrm.ph_code import SoftwareCompany
 
 # Initialize company
 company = SoftwareCompany()
@@ -19,7 +19,7 @@ company.start_project(
 ## Custom Configuration
 
 ```python
-from metagpt.config import Config
+from jrmph.config import Config
 
 config = Config(
     openai_api_key="your-key",
@@ -33,7 +33,7 @@ company = SoftwareCompany(config=config)
 ## Role Customization
 
 ```python
-from metagpt.roles import Engineer
+from jrmph.roles import Engineer
 
 class FullStackEngineer(Engineer):
     async def implement_feature(self, task):
@@ -76,7 +76,7 @@ except Exception as e:
 
 ### Custom Workflows
 ```python
-from metagpt.workflow import Workflow
+from jrmph.workflow import Workflow
 
 class CustomWorkflow(Workflow):
     async def execute(self):

@@ -1,10 +1,10 @@
-# Introduction to MetaGPT
+# Introduction to jrmph
 
-MetaGPT is a revolutionary multi-agent framework that transforms natural language requirements into production-ready code. By simulating a collaborative software company environment, it orchestrates multiple AI agents to work together, each playing specific roles in the software development lifecycle.
+jrmph is a revolutionary multi-agent framework that transforms natural language requirements into production-ready code. By simulating a collaborative software company environment, it orchestrates multiple AI agents to work together, each playing specific roles in the software development lifecycle.
 
-## What is MetaGPT?
+## What is jrmph?
 
-MetaGPT is designed to:
+jrmph is designed to:
 - Break down complex programming tasks into manageable components
 - Generate high-quality, production-ready code
 - Follow software engineering best practices
@@ -36,4 +36,4 @@ MetaGPT is designed to:
 
 ## Getting Started
 
-Check out our [Quick Start Guide](/guide/quickstart) to begin using MetaGPT in your projects.
+Check out our [Quick Start Guide](/guide/quickstart) to begin using jrmph in your projects.

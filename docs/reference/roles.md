@@ -1,6 +1,6 @@
 # Roles & Collaboration
 
-MetaGPT's role system defines how agents work together to complete software development tasks.
+jrmph's role system defines how agents work together to complete software development tasks.
 
 ## Role Definitions
 

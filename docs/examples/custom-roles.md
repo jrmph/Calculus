@@ -1,11 +1,11 @@
 # Custom Roles Examples
 
-Learn how to create and customize roles in MetaGPT.
+Learn how to create and customize roles in jrmph.
 
 ## Basic Role Creation
 
 ```python
-from metagpt.roles import Role
+from jrmph.roles import Role
 
 class SecurityEngineer(Role):
     def __init__(self):
@@ -25,8 +25,8 @@ class SecurityEngineer(Role):
 ## Role with Custom Actions
 
 ```python
-from metagpt.actions import Action
-from metagpt.roles import Role
+from jrmph.actions import Action
+from jrmph.roles import Role
 
 class CodeReview(Action):
     async def run(self, code):
@@ -69,7 +69,7 @@ class DatabaseEngineer(Role):
 
 ### Team Assembly
 ```python
-from metagpt.software_company import SoftwareCompany
+from jrm.ph_code import SoftwareCompany
 
 company = SoftwareCompany()
 company.hire([
