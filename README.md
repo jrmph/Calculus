@@ -1,68 +1,68 @@
-# Calculus Notes
+# Calculus Reviewer
 
-![Calculus Notes Logo](assets/calculus-logo.svg)
+![Calculus Reviewer Logo](../20250807_191405.jpg)
 
 **A Comprehensive Guide to Calculus**  
 Created by Jhames Rhonnielle Martin, an 18-year-old BSIS student
 
-Welcome to **Calculus Notes**, a student-friendly resource designed to make calculus clear and engaging. Whether you're new to calculus or reviewing advanced topics, this guide provides intuitive explanations, step-by-step solutions, and practical examples to help you succeed.
+Welcome to the **Calculus Reviewer**, a student-friendly resource designed to simplify calculus for learners at all levels. This project offers clear explanations, step-by-step solutions, and practical examples to help you master calculus concepts, from foundational topics to advanced applications.
 
 ## Features
 
 - **📚 Complete Coverage**  
-  Comprehensive content covering all major calculus topics, from basics to advanced concepts.
+  In-depth content spanning all key calculus topics, from basics to advanced concepts.
 
 - **🧮 Clear Examples**  
-  Concepts explained with multiple examples and detailed, step-by-step solutions.
+  Each concept is explained with intuitive examples and detailed solutions.
 
 - **🔍 Deep Understanding**  
-  Focus on building intuition and conceptual clarity, beyond just formulas.
+  Emphasis on building intuition and conceptual clarity, not just memorizing formulas.
 
 - **📝 Practice Problems**  
-  Numerous practice problems with solutions to reinforce learning.
+  Numerous exercises with solutions to reinforce learning and build confidence.
 
 ## What's Included
 
-This guide follows a logical learning path, including:
+This guide is structured to follow a logical learning path:
 
 - **Foundations**: Functions, domains, ranges, and prerequisite concepts.
-- **Limits & Continuity**: The building blocks of calculus.
-- **Derivatives**: Differentiation rules, techniques, and applications.
+- **Limits & Continuity**: Core principles of calculus.
+- **Derivatives**: Differentiation rules, techniques, and real-world applications.
 - **Integration**: Methods for definite and indefinite integrals.
 - **Advanced Topics**: Series, multivariable calculus, and differential equations.
 - **Problem-Solving**: Strategies, common pitfalls, and practice problems.
 
-Each section offers:
-- **Conceptual Explanations**: Intuitive breakdowns of complex ideas.
-- **Visual Representations**: Diagrams and graphs for clarity.
-- **Worked Examples**: Step-by-step problem solutions.
-- **Common Pitfalls**: Tips to avoid frequent mistakes.
-- **Practice Problems**: Exercises with detailed answers.
+Each section includes:
+- Conceptual explanations for intuitive understanding.
+- Visual aids like diagrams and graphs.
+- Step-by-step worked examples.
+- Tips to avoid common mistakes.
+- Practice problems with detailed solutions.
 
 ## How to Use
 
-- **Beginners**: Start with the [Foundations](docs/foundations/functions.md) section and follow the sequence.
-- **Reviewers**: Use the navigation menu to jump to specific topics.
-- **Practice**: Solve the practice problems and check solutions.
+- **Beginners**: Start with the [Foundations](docs/foundations/functions.md) section and progress sequentially.
+- **Reviewers**: Navigate to specific topics using the documentation menu.
+- **Practice**: Work through practice problems and verify with provided solutions.
 
 ## Getting Started
 
-Start your calculus journey:  
-- Explore: [Foundations of Calculus](docs/foundations/functions.md)  
-- View on GitHub: [github.com/your-username/calculus-notes](https://github.com/your-username/calculus-notes)
+Start exploring:  
+- [Foundations of Calculus](docs/foundations/functions.md)  
+- View on GitHub: [https://github.com/jrmph/Calculus](https://github.com/jrmph/Calculus)
 
 ## Contributing
 
 Contributions are welcome! To contribute:
-1. Fork the repository.
+1. Fork this repository.
 2. Create a branch (`git checkout -b feature-name`).
-3. Commit changes (`git commit -m "Add feature"`).
+3. Commit your changes (`git commit -m "Add feature"`).
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request.
 
 ## About the Author
 
-I'm **Jhames Rhonnielle Martin**, an 18-year-old BSIS student passionate about simplifying complex subjects. This project aims to help students master calculus with clear, accessible resources. Feedback is appreciated!
+Hi, I’m **Jhames Rhonnielle Martin**, an 18-year-old BSIS student passionate about making calculus accessible. This project is my effort to create a clear, comprehensive resource for students. Feedback and suggestions are always welcome!
 
 ## License
 

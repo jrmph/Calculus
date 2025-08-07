@@ -1,63 +1,66 @@
 ---
 layout: home
-title: Calculus Notes
+title: Calculus Reviewer
 titleTemplate: Comprehensive Guide to Calculus
 
 hero:
-  name: Calculus Notes
+  name: Calculus Reviewer
   text: A Comprehensive Guide to Calculus
   tagline: Clear explanations, step-by-step solutions, and intuitive examples
   image:
-    src: /calculus-logo.svg
-    alt: Calculus Notes
+    src: 20250807_191405.jpg
+    alt: Calculus Reviewer Logo
   actions:
     - theme: brand
       text: Get Started
       link: /foundations/functions
     - theme: alt
       text: View on GitHub
-      link: https://github.com/
+      link: https://github.com/jrmph/Calculus
 
 features:
   - icon: 📚
     title: Complete Coverage
-    details: Comprehensive content covering all calculus topics from basic functions to advanced concepts
+    details: Comprehensive content covering all calculus topics, from basic functions to advanced concepts.
   - icon: 🧮
     title: Clear Examples
-    details: Every concept illustrated with multiple examples and step-by-step solutions
+    details: Every concept illustrated with multiple examples and step-by-step solutions.
   - icon: 🔍
     title: Deep Understanding
-    details: Focus on building intuition and understanding, not just memorizing formulas
+    details: Focus on building intuition and conceptual clarity, not just memorizing formulas.
   - icon: 📝
     title: Practice Problems
-    details: Numerous practice problems with detailed solutions to reinforce learning
+    details: Numerous practice problems with detailed solutions to reinforce learning.
 ---
 
-# Calculus Notes
+# Calculus Reviewer
 
-Welcome to the comprehensive guide to calculus! This resource is designed to help you understand calculus concepts from the ground up, providing clear explanations, intuitive examples, and step-by-step problem-solving techniques.
+Welcome to the **Calculus Reviewer**, a comprehensive guide created by **Jhames Rhonnielle Martin**, an 18-year-old BSIS student. This resource is designed to help you master calculus from the ground up, offering clear explanations, intuitive examples, and step-by-step problem-solving techniques tailored for students at all levels.
 
 ## What You'll Find Here
 
-- **Foundations**: Review of functions, domains, ranges, and other prerequisite knowledge
-- **Limits & Continuity**: Understanding the building blocks of calculus
-- **Derivatives**: Rules, techniques, and applications of differentiation
-- **Integration**: Methods and applications of definite and indefinite integrals
-- **Advanced Topics**: Series, multivariable calculus, and differential equations
-- **Problem-Solving**: Strategies, common mistakes, and practice problems
+- **Foundations**: Review of functions, domains, ranges, and prerequisite knowledge.
+- **Limits & Continuity**: Core concepts that form the foundation of calculus.
+- **Derivatives**: Rules, techniques, and practical applications of differentiation.
+- **Integration**: Methods and applications for definite and indefinite integrals.
+- **Advanced Topics**: Series, multivariable calculus, and differential equations.
+- **Problem-Solving**: Strategies, common mistakes to avoid, and practice problems.
 
 ## How to Use This Guide
 
-This documentation is organized sequentially, following the typical learning path for calculus. If you're new to calculus, we recommend starting with the Foundations section and progressing through each topic in order.
+This guide is organized sequentially, following a typical calculus learning path. If you're new to calculus, start with the [Foundations](/foundations/functions) section and progress through each topic in order.
 
-For those looking to review specific concepts, use the navigation menu to jump directly to any topic of interest.
+For those reviewing specific concepts, use the navigation menu to jump to topics of interest.
 
 Each section includes:
+- **Conceptual Explanations**: Intuitive breakdowns to build understanding.
+- **Visual Representations**: Diagrams and graphs to clarify abstract concepts.
+- **Worked Examples**: Step-by-step solutions to real problems.
+- **Common Pitfalls**: Tips to avoid frequent errors.
+- **Practice Problems**: Exercises with detailed solutions to reinforce learning.
 
-- **Conceptual explanations** that focus on building intuition
-- **Visual representations** to help understand abstract concepts
-- **Worked examples** showing step-by-step solutions
-- **Common pitfalls** to avoid when solving problems
-- **Practice problems** to reinforce your understanding
+## About the Author
 
-Let's begin our calculus journey together!
+Hi, I’m **Jhames Rhonnielle Martin**, an 18-year-old BSIS student passionate about making calculus accessible and engaging. This project is my effort to create a clear, student-friendly resource for learning calculus. Feedback and suggestions are welcome!
+
+Let’s begin our calculus journey together!
